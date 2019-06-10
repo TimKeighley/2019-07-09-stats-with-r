@@ -24,7 +24,7 @@ Materials will be provided in advance of the workshop and large-print handouts a
 in advance. If we can help making learning easier for you (e.g. sign-language interpreters, lactation facilities) please get in touch
 (using contact details below) and we will attempt to provide them.
 
-**Contact:** Please email Tim.Keighley@mq.edu.au for more information.
+**Contact:** Please email [Tim.Keighley@mq.edu.au](mailto:Tim.Keighley@mq.edu.au) for more information.
 
 ## Software requirements
 
