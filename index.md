@@ -1,3 +1,8 @@
+---
+title: Statistics with R course
+date: 2019-07-09
+---
+
 # Statistics with R
 
 ## Welcome
