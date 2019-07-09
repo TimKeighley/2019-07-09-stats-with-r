@@ -52,6 +52,8 @@ We will use some packages from the [tidyverse](https://www.tidyverse.org/) which
 
 ## Syllabus (subject to change)
 
+<https://mq-software-carpentry.github.io/statistics-with-r/>
+
 ### Data preparation
 ### Visualisation
 ### Descriptive statistics
