@@ -38,7 +38,14 @@ in advance. If we can help making learning easier for you (e.g. sign-language in
 - Tim Keighley
 
 ### Helpers
-- TBD
+- Abhay Singh
+- Drew Allen
+- Lachlan Phillips
+- Peter Humburg
+- Rodrigo Castro
+- Samiya Tabassum
+- Shubham Chhajed
+- Yuri Niella
 
 ### Organisers (i.e. doing the real work)
 - Odette Subijano
