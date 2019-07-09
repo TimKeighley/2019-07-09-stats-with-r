@@ -64,7 +64,7 @@ We will use some packages from the [tidyverse](https://www.tidyverse.org/) which
 ### Data preparation
 ### Visualisation
 ### Descriptive statistics
-### ANOVA and t-test
+### ANOVA and _t_ test
 ### Basic regression and correlation
 ### Linear modelling – fixed effects
 ### Linear modelling – mixed effects
